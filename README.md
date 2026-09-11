@@ -33,7 +33,7 @@ Get discovered by potential users, increase product visibility, build your brand
 - [CodeHype](https://codehype.ai/) - SaaS launch and discovery platform designed to help products gain visibility and online exposure.
 - [Uneed](https://www.uneed.best/) - Product discovery platform for SaaS, AI tools, and digital products.
 - [SaaSHub](https://www.saashub.com/) - SaaS discovery platform featuring software products, alternatives, and comparisons.
-- [SaaSCity](https://saascity.io/) - Gamified SaaS directory; every listing becomes a building on an isometric city map. DR 59, dofollow.
+- [SaaSCity](https://saascity.io/) - Gamified SaaS directory; every listing becomes a building on an isometric city map. DR 64, dofollow.
 - [AlternativeTo](https://alternativeto.net/) - Discover alternatives to software, apps, and online services.
 - [Crozdesk](https://crozdesk.com/) - Business software discovery and comparison platform.
 - [GoodFirms](https://www.goodfirms.co/) - Directory for software companies, IT services, and technology providers.
