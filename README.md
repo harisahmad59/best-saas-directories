@@ -47,6 +47,7 @@ Get discovered by potential users, increase product visibility, build your brand
 - [Future Tools](https://www.futuretools.io/) - Discover and explore AI tools and resources.
 - [AI For Developers](https://aifordevelopers.org/) - Curated AI SDKs, APIs, copilots, and developer tools.
 - [Toolkitly](https://www.toolkitly.com/) - Discover AI and technology tools across different categories.
+- [Public Prompts](https://www.publicprompts.art/) - Browse AI tools by category and apply for a paid, editorially reviewed directory listing.
 
 ---
 
