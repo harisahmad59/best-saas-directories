@@ -25,6 +25,7 @@ Get discovered by potential users, increase product visibility, build your brand
 - [BetaList](https://betalist.com/) - Showcase early-stage startups and products to early adopters.
 - [Launching Next](https://www.launchingnext.com/) - Submit and showcase new startups and products.
 - [SideProjectors](https://www.sideprojectors.com/) - Discover and showcase side projects, SaaS products, and indie projects.
+- [MEDIAPRONET](https://mediapronet.com/) - List a newly launched startup, SaaS tool or indie product on its own page.
 
 ---
 
