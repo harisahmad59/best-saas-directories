@@ -36,6 +36,7 @@ Get discovered by potential users, increase product visibility, build your brand
 - [AlternativeTo](https://alternativeto.net/) - Discover alternatives to software, apps, and online services.
 - [Crozdesk](https://crozdesk.com/) - Business software discovery and comparison platform.
 - [GoodFirms](https://www.goodfirms.co/) - Directory for software companies, IT services, and technology providers.
+- [We push your site to the World](https://wepushyoursitetotheworld.aplusz.app/) - Free site check and listing for any website, built for people and AI models (llms.txt, IndexNow, MCP); dofollow link once listed.
 
 ---
 
